@@ -1,0 +1,25 @@
+{
+  "name": "Website",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Pawan Vishwakarma <pawan@easyops.in>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-material": "^1.1.3",
+    "angular-ui-router": "^0.4.2",
+    "angular-messages": "^1.6.3",
+    "angular-loading-bar": "^0.9.0",
+    "angular-bootstrap": "^2.5.0"
+  }
+}

@@ -1,0 +1,1 @@
+var apiEndPointConfig = 'https://sandbox-access.easyops.in/warehouse/api/';
